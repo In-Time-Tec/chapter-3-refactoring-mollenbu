@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Included Test",
+      "setup": "",
+      "run": "DOTNET_CLI_HOME=/tmp/ dotnet test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    }
+  ]
+}
